@@ -1,0 +1,33 @@
+{
+  "name": "ttsx-video",
+  "version": "1.0.0",
+  "description": "ttsx video",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttshangxiang/ttsx-video.git"
+  },
+  "keywords": [
+    "video"
+  ],
+  "author": "ttshangxiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttshangxiang/ttsx-video/issues"
+  },
+  "homepage": "https://github.com/ttshangxiang/ttsx-video#readme",
+  "dependencies": {
+    "babel-standalone": "^6.24.2",
+    "electron": "^1.6.10",
+    "mpv.js": "^0.2.0",
+    "prop-types": "^15.5.10",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "electron-debug": "^1.1.0"
+  }
+}
