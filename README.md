@@ -22,7 +22,7 @@ Two options are normally acceptable:
 1. Ask your users to install `libmpv1` with package manager or simply depend on it if you build package.
 2. Compile static `libmpv.so` with e.g. [mpv-build](https://github.com/mpv-player/mpv-build).
 
-##感谢  
+## 感谢  
 [mpv](https://github.com/mpv-player/mpv)  
 [mpv.js](https://github.com/Kagami/mpv.js)  
 
